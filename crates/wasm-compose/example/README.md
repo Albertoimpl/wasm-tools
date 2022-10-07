@@ -149,7 +149,7 @@ cd server
 cargo run --release -- service.wasm
 ```
 
-This will start a HTTP server that listens at `http://localhost:8080`.
+This will start an HTTP server that listens at `http://localhost:8080`.
 
 ## Sending a request
 
